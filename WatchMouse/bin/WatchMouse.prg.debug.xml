@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseView.mc" id="3" lineNum="5" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseView.mc" id="3" lineNum="6" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseView.mc" id="4" lineNum="10" pc="268435479" symbol="onLayout"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseView.mc" id="4" lineNum="11" pc="268435483" symbol="onLayout"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseView.mc" id="5" lineNum="17" pc="268435521" symbol="onShow"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseView.mc" id="6" lineNum="21" pc="268435526" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseView.mc" id="6" lineNum="23" pc="268435530" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseView.mc" id="7" lineNum="29" pc="268435551" symbol="onHide"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseDelegate.mc" id="9" lineNum="5" pc="268435556" symbol="initialize"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseDelegate.mc" id="9" lineNum="6" pc="268435560" symbol="initialize"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseDelegate.mc" id="10" lineNum="9" pc="268435579" symbol="onMenu"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseDelegate.mc" id="10" lineNum="10" pc="268435583" symbol="onMenu"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseDelegate.mc" id="10" lineNum="11" pc="268435667" symbol="onMenu"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseDelegate.mc" id="11" lineNum="13" pc="268435671" symbol="onTap"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseDelegate.mc" id="11" lineNum="15" pc="268435675" symbol="onTap"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseDelegate.mc" id="11" lineNum="16" pc="268435688" symbol="onTap"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseDelegate.mc" id="11" lineNum="17" pc="268435698" symbol="onTap"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseDelegate.mc" id="11" lineNum="18" pc="268435708" symbol="onTap"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseDelegate.mc" id="11" lineNum="20" pc="268435761" symbol="onTap"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseDelegate.mc" id="11" lineNum="22" pc="268435787" symbol="onTap"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseDelegate.mc" id="11" lineNum="24" pc="268435840" symbol="onTap"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseDelegate.mc" id="11" lineNum="26" pc="268435866" symbol="onTap"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseDelegate.mc" id="11" lineNum="28" pc="268435919" symbol="onTap"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseDelegate.mc" id="11" lineNum="30" pc="268435945" symbol="onTap"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseDelegate.mc" id="11" lineNum="32" pc="268435998" symbol="onTap"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseDelegate.mc" id="11" lineNum="36" pc="268436024" symbol="onTap"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\PresentationDelegate.mc" id="13" lineNum="5" pc="268436048" symbol="initialize"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\PresentationDelegate.mc" id="13" lineNum="6" pc="268436052" symbol="initialize"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\PresentationDelegate.mc" id="14" lineNum="9" pc="268436071" symbol="onMenu"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\PresentationDelegate.mc" id="14" lineNum="10" pc="268436075" symbol="onMenu"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\PresentationDelegate.mc" id="14" lineNum="11" pc="268436159" symbol="onMenu"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\PresentationDelegate.mc" id="15" lineNum="13" pc="268436163" symbol="onTap"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\PresentationDelegate.mc" id="15" lineNum="15" pc="268436167" symbol="onTap"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\PresentationDelegate.mc" id="15" lineNum="16" pc="268436180" symbol="onTap"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\PresentationDelegate.mc" id="15" lineNum="17" pc="268436190" symbol="onTap"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\PresentationDelegate.mc" id="15" lineNum="19" pc="268436201" symbol="onTap"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\PresentationDelegate.mc" id="15" lineNum="21" pc="268436227" symbol="onTap"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\PresentationDelegate.mc" id="15" lineNum="23" pc="268436238" symbol="onTap"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\PresentationDelegate.mc" id="16" lineNum="26" pc="268436265" symbol="onSwipe"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\PresentationDelegate.mc" id="16" lineNum="28" pc="268436269" symbol="onSwipe"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\PresentationDelegate.mc" id="16" lineNum="29" pc="268436282" symbol="onSwipe"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\PresentationDelegate.mc" id="16" lineNum="31" pc="268436300" symbol="onSwipe"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\PresentationDelegate.mc" id="16" lineNum="33" pc="268436326" symbol="onSwipe"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\PresentationDelegate.mc" id="16" lineNum="35" pc="268436344" symbol="onSwipe"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\TrackpadView.mc" id="18" lineNum="5" pc="268436371" symbol="initialize"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\TrackpadView.mc" id="18" lineNum="6" pc="268436375" symbol="initialize"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\TrackpadView.mc" id="19" lineNum="10" pc="268436394" symbol="onLayout"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\TrackpadView.mc" id="19" lineNum="11" pc="268436398" symbol="onLayout"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\TrackpadView.mc" id="20" lineNum="17" pc="268436436" symbol="onShow"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\TrackpadView.mc" id="21" lineNum="21" pc="268436441" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\TrackpadView.mc" id="21" lineNum="23" pc="268436445" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\TrackpadView.mc" id="22" lineNum="29" pc="268436466" symbol="onHide"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\AboutScreenView.mc" id="24" lineNum="5" pc="268436471" symbol="initialize"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\AboutScreenView.mc" id="24" lineNum="6" pc="268436475" symbol="initialize"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\AboutScreenView.mc" id="25" lineNum="10" pc="268436494" symbol="onLayout"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\AboutScreenView.mc" id="25" lineNum="11" pc="268436498" symbol="onLayout"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\AboutScreenView.mc" id="26" lineNum="17" pc="268436536" symbol="onShow"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\AboutScreenView.mc" id="27" lineNum="21" pc="268436541" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\AboutScreenView.mc" id="27" lineNum="23" pc="268436545" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\AboutScreenView.mc" id="28" lineNum="29" pc="268436566" symbol="onHide"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\Comms.mc" id="30" lineNum="5" pc="268436571" symbol="send"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\Comms.mc" id="30" lineNum="7" pc="268436575" symbol="send"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\Comms.mc" id="32" lineNum="13" pc="268436620" symbol="initialize"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\Comms.mc" id="32" lineNum="15" pc="268436624" symbol="initialize"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\Comms.mc" id="33" lineNum="17" pc="268436647" symbol="onComplete"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\Comms.mc" id="34" lineNum="18" pc="268436652" symbol="onError"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseApp.mc" id="36" lineNum="6" pc="268436657" symbol="initialize"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseApp.mc" id="36" lineNum="7" pc="268436661" symbol="initialize"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseApp.mc" id="37" lineNum="11" pc="268436680" symbol="onStart"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseApp.mc" id="38" lineNum="15" pc="268436685" symbol="onStop"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseApp.mc" id="39" lineNum="19" pc="268436690" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseApp.mc" id="39" lineNum="20" pc="268436694" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\KeyShortcutMenuDelegate.mc" id="41" lineNum="6" pc="268436762" symbol="initialize"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\KeyShortcutMenuDelegate.mc" id="41" lineNum="7" pc="268436766" symbol="initialize"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\KeyShortcutMenuDelegate.mc" id="42" lineNum="10" pc="268436785" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\KeyShortcutMenuDelegate.mc" id="42" lineNum="11" pc="268436789" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\KeyShortcutMenuDelegate.mc" id="42" lineNum="13" pc="268436800" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\KeyShortcutMenuDelegate.mc" id="42" lineNum="15" pc="268436826" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\KeyShortcutMenuDelegate.mc" id="42" lineNum="17" pc="268436837" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\KeyShortcutMenuDelegate.mc" id="42" lineNum="19" pc="268436863" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\KeyShortcutMenuDelegate.mc" id="42" lineNum="21" pc="268436874" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\KeyShortcutMenuDelegate.mc" id="42" lineNum="23" pc="268436900" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\KeyShortcutMenuDelegate.mc" id="42" lineNum="25" pc="268436911" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\KeyShortcutMenuDelegate.mc" id="42" lineNum="27" pc="268436937" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\KeyShortcutMenuDelegate.mc" id="42" lineNum="29" pc="268436948" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\KeyShortcutMenuDelegate.mc" id="42" lineNum="31" pc="268436974" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\KeyShortcutMenuDelegate.mc" id="42" lineNum="33" pc="268436985" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\KeyShortcutMenuDelegate.mc" id="42" lineNum="35" pc="268437011" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\KeyShortcutMenuDelegate.mc" id="42" lineNum="37" pc="268437022" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\KeyShortcutMenuDelegate.mc" id="42" lineNum="39" pc="268437048" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\KeyShortcutMenuDelegate.mc" id="42" lineNum="41" pc="268437059" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\KeyShortcutMenuDelegate.mc" id="42" lineNum="43" pc="268437085" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\KeyShortcutMenuDelegate.mc" id="42" lineNum="45" pc="268437096" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\KeyShortcutMenuDelegate.mc" id="42" lineNum="47" pc="268437122" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\KeyShortcutMenuDelegate.mc" id="42" lineNum="49" pc="268437133" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\PresentationView.mc" id="44" lineNum="5" pc="268437160" symbol="initialize"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\PresentationView.mc" id="44" lineNum="6" pc="268437164" symbol="initialize"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\PresentationView.mc" id="45" lineNum="10" pc="268437183" symbol="onLayout"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\PresentationView.mc" id="45" lineNum="11" pc="268437187" symbol="onLayout"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\PresentationView.mc" id="46" lineNum="17" pc="268437225" symbol="onShow"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\PresentationView.mc" id="47" lineNum="21" pc="268437230" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\PresentationView.mc" id="47" lineNum="23" pc="268437234" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\PresentationView.mc" id="48" lineNum="29" pc="268437255" symbol="onHide"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\TrackpadDelegate.mc" id="50" lineNum="5" pc="268437260" symbol="initialize"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\TrackpadDelegate.mc" id="50" lineNum="6" pc="268437264" symbol="initialize"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\TrackpadDelegate.mc" id="51" lineNum="9" pc="268437283" symbol="onMenu"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\TrackpadDelegate.mc" id="51" lineNum="10" pc="268437287" symbol="onMenu"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\TrackpadDelegate.mc" id="51" lineNum="11" pc="268437371" symbol="onMenu"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\TrackpadDelegate.mc" id="52" lineNum="13" pc="268437375" symbol="onTap"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\TrackpadDelegate.mc" id="52" lineNum="15" pc="268437379" symbol="onTap"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\TrackpadDelegate.mc" id="52" lineNum="16" pc="268437392" symbol="onTap"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\TrackpadDelegate.mc" id="52" lineNum="17" pc="268437402" symbol="onTap"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\TrackpadDelegate.mc" id="52" lineNum="18" pc="268437412" symbol="onTap"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\TrackpadDelegate.mc" id="53" lineNum="20" pc="268437442" symbol="onSwipe"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\TrackpadDelegate.mc" id="53" lineNum="22" pc="268437446" symbol="onSwipe"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\TrackpadDelegate.mc" id="53" lineNum="23" pc="268437459" symbol="onSwipe"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\TrackpadDelegate.mc" id="53" lineNum="25" pc="268437477" symbol="onSwipe"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\TrackpadDelegate.mc" id="53" lineNum="27" pc="268437503" symbol="onSwipe"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\TrackpadDelegate.mc" id="53" lineNum="29" pc="268437521" symbol="onSwipe"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\TrackpadDelegate.mc" id="54" lineNum="32" pc="268437548" symbol="onHide"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\TrackpadDelegate.mc" id="54" lineNum="34" pc="268437552" symbol="onHide"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseMenuDelegate.mc" id="56" lineNum="6" pc="268437576" symbol="initialize"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseMenuDelegate.mc" id="56" lineNum="7" pc="268437580" symbol="initialize"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseMenuDelegate.mc" id="57" lineNum="10" pc="268437599" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseMenuDelegate.mc" id="57" lineNum="11" pc="268437603" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseMenuDelegate.mc" id="57" lineNum="13" pc="268437614" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseMenuDelegate.mc" id="57" lineNum="15" pc="268437640" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseMenuDelegate.mc" id="57" lineNum="17" pc="268437651" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseMenuDelegate.mc" id="57" lineNum="19" pc="268437738" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseMenuDelegate.mc" id="57" lineNum="21" pc="268437749" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseMenuDelegate.mc" id="57" lineNum="23" pc="268437775" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseMenuDelegate.mc" id="57" lineNum="25" pc="268437786" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseMenuDelegate.mc" id="57" lineNum="27" pc="268437812" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseMenuDelegate.mc" id="57" lineNum="29" pc="268437823" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseMenuDelegate.mc" id="57" lineNum="31" pc="268437849" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseMenuDelegate.mc" id="57" lineNum="33" pc="268437860" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseMenuDelegate.mc" id="57" lineNum="35" pc="268437886" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseMenuDelegate.mc" id="57" lineNum="37" pc="268437897" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseMenuDelegate.mc" id="57" lineNum="39" pc="268437923" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseMenuDelegate.mc" id="57" lineNum="41" pc="268437934" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseMenuDelegate.mc" id="57" lineNum="43" pc="268437960" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseMenuDelegate.mc" id="57" lineNum="45" pc="268437971" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseMenuDelegate.mc" id="57" lineNum="47" pc="268437997" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseMenuDelegate.mc" id="57" lineNum="49" pc="268438008" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseMenuDelegate.mc" id="57" lineNum="51" pc="268438083" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseMenuDelegate.mc" id="57" lineNum="53" pc="268438094" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseMenuDelegate.mc" id="57" lineNum="55" pc="268438148" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseMenuDelegate.mc" id="57" lineNum="57" pc="268438159" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Garfield\\eclipse-workspace\\WatchMouse\\source\\WatchMouseMenuDelegate.mc" id="57" lineNum="58" pc="268438182" symbol="onMenuItem"/>
+<entry filename="Rez" id="63" lineNum="16" pc="268438258" symbol="initialize"/>
+<entry filename="Rez" id="63" lineNum="17" pc="268438262" symbol="initialize"/>
+<entry filename="Rez" id="63" lineNum="18" pc="268438280" symbol="initialize"/>
+<entry filename="Rez" id="63" lineNum="19" pc="268438302" symbol="initialize"/>
+<entry filename="Rez" id="63" lineNum="20" pc="268438324" symbol="initialize"/>
+<entry filename="Rez" id="63" lineNum="21" pc="268438346" symbol="initialize"/>
+<entry filename="Rez" id="63" lineNum="22" pc="268438368" symbol="initialize"/>
+<entry filename="Rez" id="63" lineNum="23" pc="268438390" symbol="initialize"/>
+<entry filename="Rez" id="63" lineNum="24" pc="268438412" symbol="initialize"/>
+<entry filename="Rez" id="63" lineNum="25" pc="268438434" symbol="initialize"/>
+<entry filename="Rez" id="63" lineNum="26" pc="268438456" symbol="initialize"/>
+<entry filename="Rez" id="63" lineNum="27" pc="268438478" symbol="initialize"/>
+<entry filename="Rez" id="65" lineNum="37" pc="268438501" symbol="initialize"/>
+<entry filename="Rez" id="65" lineNum="38" pc="268438505" symbol="initialize"/>
+<entry filename="Rez" id="65" lineNum="39" pc="268438523" symbol="initialize"/>
+<entry filename="Rez" id="65" lineNum="40" pc="268438545" symbol="initialize"/>
+<entry filename="Rez" id="65" lineNum="41" pc="268438567" symbol="initialize"/>
+<entry filename="Rez" id="65" lineNum="42" pc="268438589" symbol="initialize"/>
+<entry filename="Rez" id="65" lineNum="43" pc="268438611" symbol="initialize"/>
+<entry filename="Rez" id="65" lineNum="44" pc="268438633" symbol="initialize"/>
+<entry filename="Rez" id="65" lineNum="45" pc="268438655" symbol="initialize"/>
+<entry filename="Rez" id="65" lineNum="46" pc="268438677" symbol="initialize"/>
+<entry filename="Rez" id="65" lineNum="47" pc="268438699" symbol="initialize"/>
+<entry filename="Rez" id="65" lineNum="48" pc="268438721" symbol="initialize"/>
+<entry filename="Rez" id="65" lineNum="49" pc="268438743" symbol="initialize"/>
+<entry filename="Rez" id="65" lineNum="50" pc="268438765" symbol="initialize"/>
+<entry filename="Rez" id="68" lineNum="78" pc="268438788" symbol="AboutScreenLayout"/>
+<entry filename="Rez" id="68" lineNum="82" pc="268438800" symbol="AboutScreenLayout"/>
+<entry filename="Rez" id="68" lineNum="83" pc="268438916" symbol="AboutScreenLayout"/>
+<entry filename="Rez" id="68" lineNum="84" pc="268438968" symbol="AboutScreenLayout"/>
+<entry filename="Rez" id="68" lineNum="85" pc="268439144" symbol="AboutScreenLayout"/>
+<entry filename="Rez" id="68" lineNum="86" pc="268439169" symbol="AboutScreenLayout"/>
+<entry filename="Rez" id="68" lineNum="87" pc="268439221" symbol="AboutScreenLayout"/>
+<entry filename="Rez" id="68" lineNum="90" pc="268439267" symbol="AboutScreenLayout"/>
+<entry filename="Rez" id="69" lineNum="101" pc="268439295" symbol="MainLayout"/>
+<entry filename="Rez" id="69" lineNum="105" pc="268439307" symbol="MainLayout"/>
+<entry filename="Rez" id="69" lineNum="106" pc="268439438" symbol="MainLayout"/>
+<entry filename="Rez" id="69" lineNum="107" pc="268439490" symbol="MainLayout"/>
+<entry filename="Rez" id="69" lineNum="108" pc="268439621" symbol="MainLayout"/>
+<entry filename="Rez" id="69" lineNum="109" pc="268439673" symbol="MainLayout"/>
+<entry filename="Rez" id="69" lineNum="110" pc="268439804" symbol="MainLayout"/>
+<entry filename="Rez" id="69" lineNum="111" pc="268439856" symbol="MainLayout"/>
+<entry filename="Rez" id="69" lineNum="112" pc="268439987" symbol="MainLayout"/>
+<entry filename="Rez" id="69" lineNum="113" pc="268440039" symbol="MainLayout"/>
+<entry filename="Rez" id="69" lineNum="114" pc="268440170" symbol="MainLayout"/>
+<entry filename="Rez" id="69" lineNum="115" pc="268440222" symbol="MainLayout"/>
+<entry filename="Rez" id="69" lineNum="118" pc="268440274" symbol="MainLayout"/>
+<entry filename="Rez" id="70" lineNum="129" pc="268440332" symbol="PresentationLayout"/>
+<entry filename="Rez" id="70" lineNum="133" pc="268440344" symbol="PresentationLayout"/>
+<entry filename="Rez" id="70" lineNum="134" pc="268440445" symbol="PresentationLayout"/>
+<entry filename="Rez" id="70" lineNum="135" pc="268440546" symbol="PresentationLayout"/>
+<entry filename="Rez" id="70" lineNum="136" pc="268440707" symbol="PresentationLayout"/>
+<entry filename="Rez" id="70" lineNum="137" pc="268440732" symbol="PresentationLayout"/>
+<entry filename="Rez" id="70" lineNum="140" pc="268440784" symbol="PresentationLayout"/>
+<entry filename="Rez" id="71" lineNum="151" pc="268440822" symbol="TrackpadLayout"/>
+<entry filename="Rez" id="71" lineNum="155" pc="268440834" symbol="TrackpadLayout"/>
+<entry filename="Rez" id="71" lineNum="156" pc="268440965" symbol="TrackpadLayout"/>
+<entry filename="Rez" id="71" lineNum="157" pc="268441017" symbol="TrackpadLayout"/>
+<entry filename="Rez" id="71" lineNum="158" pc="268441069" symbol="TrackpadLayout"/>
+<entry filename="Rez" id="71" lineNum="159" pc="268441200" symbol="TrackpadLayout"/>
+<entry filename="Rez" id="71" lineNum="160" pc="268441252" symbol="TrackpadLayout"/>
+<entry filename="Rez" id="71" lineNum="161" pc="268441383" symbol="TrackpadLayout"/>
+<entry filename="Rez" id="71" lineNum="164" pc="268441435" symbol="TrackpadLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388644" module="true" symbol="System"/>
+<entry id="9" object="true" symbol="WatchMouseView"/>
+<entry id="8389101" method="true" symbol="onSwipe"/>
+<entry id="19" object="true" symbol="TrackpadDelegate"/>
+<entry field="true" id="24" symbol="id_up"/>
+<entry id="20" object="true" symbol="WatchMouseMenuDelegate"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="25" symbol="id_down"/>
+<entry id="46" symbol="item_enter"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="36" object="true" symbol="MainMenu"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry field="true" id="29" symbol="id_next"/>
+<entry id="16" object="true" symbol="WatchMouseApp"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="38" method="true" symbol="MainLayout"/>
+<entry id="39" method="true" symbol="PresentationLayout"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="51" symbol="item_f11"/>
+<entry id="8389098" method="true" symbol="onTap"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="44" symbol="AppName"/>
+<entry id="40" method="true" symbol="TrackpadLayout"/>
+<entry id="35" object="true" symbol="KeyShortcutMenu"/>
+<entry id="8389080" method="true" symbol="onMenu"/>
+<entry field="true" id="27" symbol="id_right"/>
+<entry id="66" symbol="item_12"/>
+<entry id="65" symbol="item_11"/>
+<entry id="64" symbol="item_10"/>
+<entry id="63" symbol="item_9"/>
+<entry id="62" symbol="item_8"/>
+<entry id="61" symbol="item_7"/>
+<entry id="60" symbol="item_6"/>
+<entry id="59" symbol="item_5"/>
+<entry id="58" symbol="item_4"/>
+<entry id="57" symbol="item_2"/>
+<entry id="56" symbol="item_1"/>
+<entry field="true" id="34" symbol="LauncherIcon"/>
+<entry field="true" id="42" symbol="menu_label_2"/>
+<entry id="14" object="true" symbol="Comms"/>
+<entry field="true" id="41" symbol="menu_label_1"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry field="true" id="23" symbol="id_about_logo"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8388829" method="true" symbol="onComplete"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="12" object="true" symbol="TrackpadView"/>
+<entry id="48" symbol="item_spa"/>
+<entry field="true" id="28" symbol="id_click"/>
+<entry id="17" object="true" symbol="KeyShortcutMenuDelegate"/>
+<entry field="true" id="31" symbol="id_logo"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389347" symbol="color"/>
+<entry id="45" method="true" symbol="send"/>
+<entry id="18" object="true" symbol="PresentationView"/>
+<entry field="true" id="33" symbol="id_right_ar"/>
+<entry id="8389109" method="true" symbol="onMenuItem"/>
+<entry id="15" object="true" symbol="ControlListener"/>
+<entry id="67" symbol="item_tr"/>
+<entry id="22" module="true" symbol="Layouts"/>
+<entry field="true" id="26" symbol="id_left"/>
+<entry field="true" id="43" symbol="prompt"/>
+<entry field="true" id="32" symbol="id_left_ar"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8389345" symbol="rezId"/>
+<entry id="8388828" method="true" symbol="onError"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="8389346" symbol="text"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="49" symbol="item_bsp"/>
+<entry id="21" module="true" symbol="Menus"/>
+<entry id="37" method="true" symbol="AboutScreenLayout"/>
+<entry id="10" object="true" symbol="WatchMouseDelegate"/>
+<entry field="true" id="30" symbol="id_prev"/>
+<entry id="50" symbol="item_f5"/>
+<entry id="55" symbol="it_cust4"/>
+<entry id="54" symbol="it_cust3"/>
+<entry id="53" symbol="it_cust2"/>
+<entry id="52" symbol="it_cust1"/>
+<entry id="13" object="true" symbol="AboutScreenView"/>
+<entry id="47" symbol="item_esc"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="11" object="true" symbol="PresentationDelegate"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435521" name="dc" stackId="1" startPc="268435479"/>
+<entry endPc="268435551" name="dc" stackId="1" startPc="268435526"/>
+<entry endPc="268436047" name="x" stackId="3" startPc="268435675"/>
+<entry endPc="268436047" name="y" stackId="4" startPc="268435675"/>
+<entry endPc="268436047" name="coord" stackId="2" startPc="268435675"/>
+<entry endPc="268436048" name="evt" stackId="1" startPc="268435671"/>
+<entry endPc="268436264" name="x" stackId="3" startPc="268436167"/>
+<entry endPc="268436264" name="coord" stackId="2" startPc="268436167"/>
+<entry endPc="268436265" name="evt" stackId="1" startPc="268436163"/>
+<entry endPc="268436370" name="dir" stackId="2" startPc="268436269"/>
+<entry endPc="268436371" name="evt" stackId="1" startPc="268436265"/>
+<entry endPc="268436436" name="dc" stackId="1" startPc="268436394"/>
+<entry endPc="268436466" name="dc" stackId="1" startPc="268436441"/>
+<entry endPc="268436536" name="dc" stackId="1" startPc="268436494"/>
+<entry endPc="268436566" name="dc" stackId="1" startPc="268436541"/>
+<entry endPc="268436617" name="message" stackId="1" startPc="268436571"/>
+<entry endPc="268436685" name="state" stackId="1" startPc="268436680"/>
+<entry endPc="268436690" name="state" stackId="1" startPc="268436685"/>
+<entry endPc="268437160" name="item" stackId="1" startPc="268436785"/>
+<entry endPc="268437225" name="dc" stackId="1" startPc="268437183"/>
+<entry endPc="268437255" name="dc" stackId="1" startPc="268437230"/>
+<entry endPc="268437441" name="x" stackId="3" startPc="268437379"/>
+<entry endPc="268437441" name="y" stackId="4" startPc="268437379"/>
+<entry endPc="268437441" name="coord" stackId="2" startPc="268437379"/>
+<entry endPc="268437442" name="evt" stackId="1" startPc="268437375"/>
+<entry endPc="268437547" name="dir" stackId="2" startPc="268437446"/>
+<entry endPc="268437548" name="evt" stackId="1" startPc="268437442"/>
+<entry endPc="268438258" name="item" stackId="1" startPc="268437599"/>
+<entry endPc="268439294" name="rez_cmp_local_bitmap_id_about_logo" stackId="2" startPc="268438800"/>
+<entry endPc="268439294" name="rez_cmp_local_bitmap_id_about_text" stackId="3" startPc="268438800"/>
+<entry endPc="268439294" name="rez_cmp_local_bitmap_id_about_text_fontHeight" stackId="4" startPc="268438800"/>
+<entry endPc="268439295" name="dc" stackId="1" startPc="268438788"/>
+<entry endPc="268440331" name="rez_cmp_local_bitmap_id_click" stackId="6" startPc="268439307"/>
+<entry endPc="268440331" name="rez_cmp_local_bitmap_id_up" stackId="2" startPc="268439307"/>
+<entry endPc="268440331" name="rez_cmp_local_bitmap_id_left" stackId="4" startPc="268439307"/>
+<entry endPc="268440331" name="rez_cmp_local_bitmap_id_down" stackId="3" startPc="268439307"/>
+<entry endPc="268440331" name="rez_cmp_local_bitmap_id_right" stackId="5" startPc="268439307"/>
+<entry endPc="268440332" name="dc" stackId="1" startPc="268439295"/>
+<entry endPc="268440821" name="rez_cmp_local_bitmap_pres_text_fontHeight" stackId="5" startPc="268440344"/>
+<entry endPc="268440821" name="rez_cmp_local_bitmap_id_next" stackId="2" startPc="268440344"/>
+<entry endPc="268440821" name="rez_cmp_local_bitmap_id_prev" stackId="3" startPc="268440344"/>
+<entry endPc="268440821" name="rez_cmp_local_bitmap_pres_text" stackId="4" startPc="268440344"/>
+<entry endPc="268440822" name="dc" stackId="1" startPc="268440332"/>
+<entry endPc="268441472" name="rez_cmp_local_bitmap_id_left_ar" stackId="3" startPc="268440834"/>
+<entry endPc="268441472" name="rez_cmp_local_bitmap_id_logo" stackId="2" startPc="268440834"/>
+<entry endPc="268441472" name="rez_cmp_local_bitmap_id_right_ar" stackId="4" startPc="268440834"/>
+<entry endPc="268441473" name="dc" stackId="1" startPc="268440822"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="WatchMouseView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="WatchMouseView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="WatchMouseView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="WatchMouseView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="WatchMouseView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="WatchMouseDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenu" parent="WatchMouseDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onTap" parent="WatchMouseDelegate">
+<param id="evt"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="PresentationDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenu" parent="PresentationDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onTap" parent="PresentationDelegate">
+<param id="evt"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSwipe" parent="PresentationDelegate">
+<param id="evt"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="TrackpadView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="TrackpadView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="TrackpadView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="TrackpadView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="TrackpadView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="AboutScreenView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="AboutScreenView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="AboutScreenView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="AboutScreenView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="AboutScreenView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="send" parent="Comms">
+<param id="message"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="ControlListener">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onComplete" parent="ControlListener">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onError" parent="ControlListener">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="WatchMouseApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="WatchMouseApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="WatchMouseApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="WatchMouseApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="KeyShortcutMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenuItem" parent="KeyShortcutMenuDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="PresentationView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="PresentationView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="PresentationView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="PresentationView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="PresentationView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="TrackpadDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenu" parent="TrackpadDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onTap" parent="TrackpadDelegate">
+<param id="evt"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSwipe" parent="TrackpadDelegate">
+<param id="evt"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="TrackpadDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="WatchMouseMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenuItem" parent="WatchMouseMenuDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="KeyShortcutMenu">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="MainMenu">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="AboutScreenLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="PresentationLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="TrackpadLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="318" parentId="globals" symbolId="WatchMouseMenuDelegate" type="class"/>
+<dataEntry offset="373" parentId="globals" symbolId="TrackpadDelegate" type="class"/>
+<dataEntry offset="452" parentId="globals" symbolId="AboutScreenView" type="class"/>
+<dataEntry offset="531" parentId="globals" symbolId="WatchMouseDelegate" type="class"/>
+<dataEntry offset="594" parentId="globals" symbolId="PresentationDelegate" type="class"/>
+<dataEntry offset="665" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="744" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="871" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="918" parentId="Menus" symbolId="MainMenu" type="class"/>
+<dataEntry offset="965" parentId="Menus" symbolId="KeyShortcutMenu" type="class"/>
+<dataEntry offset="1012" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="1043" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="1074" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="1137" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="1200" parentId="globals" symbolId="KeyShortcutMenuDelegate" type="class"/>
+<dataEntry offset="1255" parentId="globals" symbolId="WatchMouseView" type="class"/>
+<dataEntry offset="1334" parentId="globals" symbolId="TrackpadView" type="class"/>
+<dataEntry offset="1413" parentId="globals" symbolId="PresentationView" type="class"/>
+<dataEntry offset="1492" parentId="globals" symbolId="ControlListener" type="class"/>
+<dataEntry offset="1555" parentId="globals" symbolId="Comms" type="class"/>
+<dataEntry offset="1610" parentId="globals" symbolId="WatchMouseApp" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>

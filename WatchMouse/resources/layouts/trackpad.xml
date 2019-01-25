@@ -1,0 +1,5 @@
+<layout id="TrackpadLayout">
+    <bitmap id="id_logo" x="center" y="center" filename="../drawables/click.png"></bitmap>
+    <bitmap id="id_left_ar" x="left" y="center" filename="../drawables/left.png"></bitmap>
+    <bitmap id="id_right_ar" x="right" y="center" filename="../drawables/right.png"></bitmap>
+</layout>

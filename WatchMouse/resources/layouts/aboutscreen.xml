@@ -1,0 +1,4 @@
+<layout id="AboutScreenLayout">
+    <bitmap id="id_about_logo" x="center" y="35" filename="../drawables/click.png"/>
+    <label id="id_about_text" x="center" y="center" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_BLUE" font="Gfx.FONT_SYSTEM_LARGE" text="WatchMouse\nby:\nKovi Lori"/>
+</layout>

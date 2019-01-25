@@ -1,0 +1,12 @@
+<menu id="KeyShortcutMenu">
+    <menu-item id="item_enter" label="Enter"/>
+    <menu-item id="item_esc" label="Escape"/>
+    <menu-item id="item_spa" label="Space"/>
+    <menu-item id="item_bsp" label="Backspace"/>
+    <menu-item id="item_f5" label="F5"/>
+    <menu-item id="item_f11" label="F11"/>
+    <menu-item id="it_cust1" label="Custom 1"/>
+    <menu-item id="it_cust2" label="Custom 2"/>
+    <menu-item id="it_cust3" label="Custom 3"/>
+    <menu-item id="it_cust4" label="Custom 4"/>
+</menu>

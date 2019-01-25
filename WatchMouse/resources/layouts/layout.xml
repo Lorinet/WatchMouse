@@ -1,0 +1,7 @@
+<layout id="MainLayout">
+    <bitmap id="id_up" x="center" y="top" filename="../drawables/up.png"></bitmap>
+    <bitmap id="id_down" x="center" y="bottom" filename="../drawables/down.png"></bitmap>
+    <bitmap id="id_left" x="left" y="center" filename="../drawables/left.png"></bitmap>
+    <bitmap id="id_right" x="right" y="center" filename="../drawables/right.png"></bitmap>
+    <bitmap id="id_click" x="center" y="center" filename="../drawables/click.png"></bitmap>
+</layout>

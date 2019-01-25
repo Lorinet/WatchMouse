@@ -1,0 +1,14 @@
+<menu id="MainMenu">
+    <menu-item id="item_1" label="Right click" />
+    <menu-item id="item_2" label="Keyboard" />
+    <menu-item id="item_4" label="Switch window" />
+    <menu-item id="item_tr" label="Trackpad mode" />
+	<menu-item id="item_5" label="Arrow mode" />
+	<menu-item id="item_6" label="WASD mode" />
+	<menu-item id="item_7" label="Jump mode" />
+	<menu-item id="item_8" label="High sensitivity" />
+	<menu-item id="item_9" label="Medium sensitivity" />
+	<menu-item id="item_10" label="High precision mode" />
+	<menu-item id="item_11" label="Presentation control" />
+	<menu-item id="item_12" label="About" />
+</menu>

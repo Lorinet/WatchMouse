@@ -1,0 +1,5 @@
+<layout id="PresentationLayout">
+    <bitmap id="id_next" x="120" y="80" filename="../drawables/next.png"/>
+    <bitmap id="id_prev" x="25" y="100" filename="../drawables/prev.png"/>
+    <label id="pres_text" x="center" y="30" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_GREEN" font="Gfx.FONT_SYSTEM_TINY" text="SLIDESHOW"/>
+</layout>
