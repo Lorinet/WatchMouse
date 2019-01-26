@@ -1,0 +1,12 @@
+C:\Users\Garfield\source\repos\WatchMouse\WatchMouse\bin\Debug\WatchMouse.exe.config
+C:\Users\Garfield\source\repos\WatchMouse\WatchMouse\bin\Debug\WatchMouse.exe
+C:\Users\Garfield\source\repos\WatchMouse\WatchMouse\bin\Debug\WatchMouse.pdb
+C:\Users\Garfield\source\repos\WatchMouse\WatchMouse\obj\Debug\WatchMouse.csprojAssemblyReference.cache
+C:\Users\Garfield\source\repos\WatchMouse\WatchMouse\obj\Debug\WatchMouse.Form1.resources
+C:\Users\Garfield\source\repos\WatchMouse\WatchMouse\obj\Debug\WatchMouse.Properties.Resources.resources
+C:\Users\Garfield\source\repos\WatchMouse\WatchMouse\obj\Debug\WatchMouse.csproj.GenerateResource.cache
+C:\Users\Garfield\source\repos\WatchMouse\WatchMouse\obj\Debug\WatchMouse.csproj.CoreCompileInputs.cache
+C:\Users\Garfield\source\repos\WatchMouse\WatchMouse\obj\Debug\WatchMouse.exe
+C:\Users\Garfield\source\repos\WatchMouse\WatchMouse\obj\Debug\WatchMouse.pdb
+C:\Users\Garfield\source\repos\WatchMouse\WatchMouse\obj\Debug\WatchMouse.Form2.resources
+C:\Users\Garfield\source\repos\WatchMouse\WatchMouse\obj\Debug\WatchMouse.KeyMapper.resources
